@@ -1,0 +1,3 @@
+- to run agent you can specfiy id like this -> java Agent 5000 
+- or you can just choose to run it with random generated user id
+-Manager should just be run like this -> java Manager &

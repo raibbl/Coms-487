@@ -1,0 +1,18 @@
+
+
+LD_LIBRARY_PATH=./
+
+export LD_LIBRARY_PATH
+
+
+
+gcc -fPIC -shared -I/usr/java/j2sdk1.4.1_04/include \-I/usr/java/j2sdk1.4.1_04/include/linux \Client.c -o libhello.so
+
+
+
+
+ javac *.java
+
+	
+
+javac -h . Client.java

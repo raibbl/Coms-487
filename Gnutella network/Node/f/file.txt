@@ -1,0 +1,1 @@
+Sample file to transfer, limit of file should be 1mb

@@ -1,0 +1,1 @@
+When When Test.java is run, it asks for a port, The Server hardcodes 7000 as a tcp port but if you can you also run it with another port like this : ./Server 4500 for example.
